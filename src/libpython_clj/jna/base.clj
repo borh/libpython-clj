@@ -10,7 +10,7 @@
 
 (def ^:dynamic *python-library* "python3.6m")
 
-(def ^:dynamic *python-library-names* ["python3.7m" "python3.6m"])
+(def ^:dynamic *python-library-names* ["python3.8m" "python3.7m" "python3.6m"])
 
 
 (defn library-names
